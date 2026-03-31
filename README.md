@@ -31,7 +31,7 @@ It includes phone login with OTP and a map-based home screen.
 ## 🚀 Run the App
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pingride-app.git
+git clone https://github.com/vishalpatel011/pingride-app.git
 cd pingride-app
 flutter pub get
 flutter run

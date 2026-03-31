@@ -1,16 +1,44 @@
-# raahigo
+# 🚕 PingRide – Ride Booking App
 
-A new Flutter project.
+PingRide is a simple ride-booking mobile app built using Flutter.
+It includes phone login with OTP and a map-based home screen.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+* Phone Authentication (Firebase OTP)
+* Map Integration (OpenStreetMap)
+* Nearby Drivers UI
+* Clean and modern design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 App
+
+![Home](assets/screenshots/PingRide.png)
+
+---
+
+## 🛠️ Tech Stack
+
+* Flutter
+* Firebase Authentication
+* OpenStreetMap
+
+---
+
+## 🚀 Run the App
+
+```bash
+git clone https://github.com/YOUR_USERNAME/pingride-app.git
+cd pingride-app
+flutter pub get
+flutter run
+```
+
+---
+
+## 👨‍💻 Author
+
+Vishal Patel
